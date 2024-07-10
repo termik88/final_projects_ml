@@ -1,4 +1,4 @@
-# Final Projects in Machine Learning([RU](https://github.com/termik88/final_projects_ml/README.ru.md))
+# Final Projects in Machine Learning([RU](https://github.com/termik88/final_projects_ml//blob/main/README.ru.md))
 =====================================================
 
 This repository contains a collection of final projects in Machine Learning, showcasing various techniques and applications.
