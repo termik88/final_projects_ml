@@ -1,8 +1,8 @@
-# Computer Vision([RU](https://github.com/termik88/final_projects_ml/computer_vision/README.ru.md))
+# Computer Vision([RU](https://github.com/termik88/final_projects_ml/blob/main/computer_vision/README.ru.md))
 =====================================================
 ## Image Classification using CNN on PyTorch.
 
-[Task 1](https://github.com/termik88/final_projects_ml/computer_vision/project_1.ipynb) The goal of this assignment is to solve the image classification task on the standard CIFAR dataset using a convolutional neural network (CNN) written in PyTorch.
+[Task 1](https://github.com/termik88/final_projects_ml/blob/main/computer_vision/project_1.ipynb) The goal of this assignment is to solve the image classification task on the standard CIFAR dataset using a convolutional neural network (CNN) written in PyTorch.
 
 ### Libraries and Technologies::
 
@@ -29,7 +29,7 @@
 =====================================================
 ## Training WGAN.
 
-[Task 2](https://github.com/termik88/final_projects_ml/computer_vision/project_2.ipynb): The goal of this assignment is to implement the training procedure of Wasserstein Generative Adversarial Network (WGAN) on the Fashion MNIST dataset.
+[Task 2](https://github.com/termik88/final_projects_ml/blob/main/computer_vision/project_2.ipynb): The goal of this assignment is to implement the training procedure of Wasserstein Generative Adversarial Network (WGAN) on the Fashion MNIST dataset.
 
 ### Libraries and Technologies::
 

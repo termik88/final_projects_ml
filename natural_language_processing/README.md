@@ -1,8 +1,8 @@
-# Natural Language Processing([RU](https://github.com/termik88/final_projects_ml/natural_language_processing/README.ru.md))
+# Natural Language Processing([RU](https://github.com/termik88/final_projects_ml/blob/main/natural_language_processing/README.ru.md))
 =====================================================
 ## Data Analysis and Target Class Prediction
 
-[Part 1 of the project](https://github.com/termik88/final_projects_ml/natural_language_processing/project_1.ipynb) The goal of this part of the project is to perform exploratory data analysis, develop heuristic methods for predicting the target class, implement a text vectorization method, and train a classical machine learning model.
+[Part 1 of the project](https://github.com/termik88/final_projects_ml/blob/main/natural_language_processing/project_1.ipynb) The goal of this part of the project is to perform exploratory data analysis, develop heuristic methods for predicting the target class, implement a text vectorization method, and train a classical machine learning model.
 
 ### Libraries and Technologies::
 
@@ -34,7 +34,7 @@
 =====================================================
 ## Text Classification using Recurrent Neural Networks.
 
-[Part 2 of the project](https://github.com/termik88/final_projects_ml/natural_language_processing/project_2.ipynb): The goal of this part of the project is to train several recurrent neural network models, such as LSTM, GRU, Bidirectional-LSTM, and compare the results with heuristics and classical machine learning.
+[Part 2 of the project](https://github.com/termik88/final_projects_ml/blob/main/natural_language_processing/project_2.ipynb): The goal of this part of the project is to train several recurrent neural network models, such as LSTM, GRU, Bidirectional-LSTM, and compare the results with heuristics and classical machine learning.
 
 ### Libraries and Technologies::
 
