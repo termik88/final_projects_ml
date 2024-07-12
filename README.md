@@ -15,5 +15,5 @@ This repository contains a collection of final projects in Machine Learning, sho
 ### Natural Language Processing (NLP)
 * [Data Analysis and Target Class Prediction. Text Classification using Recurrent Neural Networks.](https://github.com/termik88/final_projects_ml/tree/main/natural_language_processing)
 
-* ### Regression Analysis (RA)
+### Regression Analysis (RA)
 * [Predicting Taxi Trip Duration in New York City](https://github.com/termik88/final_projects_ml/tree/main/regression_analysis)
