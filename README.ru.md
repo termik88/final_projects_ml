@@ -6,9 +6,6 @@
 ## Проекты
 -------------
 
-### Регрессионный Анализ (RA)
-* [Предсказание Продолжительности Поездки на Такси в Нью-Йорке](https://github.com/termik88/final_projects_ml/tree/main/regression_analysis)
-
 ### Анализ Временных Рядов (TS)
 * [Анализ временного ряда, выбранного из открытых энергетических систем Великобритании](https://github.com/termik88/final_projects_ml/tree/main/time_series)
 
@@ -17,3 +14,6 @@
 
 ### Обработка Естественного Языка (NLP)
 * [Анализ данных и предсказание целевого класса. Классификация текста с помощью рекуррентных нейронных сетей.](https://github.com/termik88/final_projects_ml/tree/main/natural_language_processing)
+
+### Регрессионный Анализ (RA)
+* [Предсказание Продолжительности Поездки на Такси в Нью-Йорке](https://github.com/termik88/final_projects_ml/tree/main/regression_analysis)
