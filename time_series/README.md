@@ -1,8 +1,8 @@
-# Time Series Analysis([RU](https://github.com/termik88/final_projects_ml/blob/main/time_series/README.ru.md))
+# Time Series Analysis([RU](https://github.com/termik88/projects_ml/blob/main/time_series/README.ru.md))
 =====================================================
 ## Analyze a time series selected from Open Power System Data (Great Britain)
 
-A [project](https://github.com/termik88/final_projects_ml/blob/main/time_series/project.ipynb) to analyze a time series selected from Open Power System Data (Great Britain). The goal of the project is to conduct an analysis of the selected time series, including preliminary analysis, forecasting, classification, and anomaly detection.
+A [project](https://github.com/termik88/projects_ml/blob/main/time_series/project.ipynb) to analyze a time series selected from Open Power System Data (Great Britain). The goal of the project is to conduct an analysis of the selected time series, including preliminary analysis, forecasting, classification, and anomaly detection.
 
 ### Libraries and Technologies::
 
