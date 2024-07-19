@@ -2,7 +2,7 @@
 =====================================================
 ## Классификация изображений с помощью CNN на PyTorch.
 
-[Задание 1](https://github.com/termik88/projects_ml/blob/main/computer_vision/project_1.ipynb): Цель задания - решить задачу классификации изображений на стандартном датасете CIFAR с помощью convolutional neural network (CNN), написанной на PyTorch.
+[Задание 1](https://github.com/termik88/projects_ml/blob/main/computer_vision/project_1.ipynb): Цель задания - решить задачу классификации изображений с помощью convolutional neural network (CNN), написанной на PyTorch.
 
 ### Библиотеки и технологии:
 
@@ -29,7 +29,7 @@
 =====================================================
 ## Обучение WGAN.
 
-[Задание 2](https://github.com/termik88/projects_ml/blob/main/computer_vision/project_2.ipynb): Цель задания - имплементировать процедуру обучения Wasserstein Generative Adversarial Network (WGAN) на датасете Fashion MNIST.
+[Задание 2](https://github.com/termik88/projects_ml/blob/main/computer_vision/project_2.ipynb): Цель задания - имплементировать процедуру обучения Wasserstein Generative Adversarial Network (WGAN).
 
 ### Библиотеки и технологии:
 
