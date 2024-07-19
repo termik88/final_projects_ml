@@ -7,7 +7,7 @@ This repository contains a collection of projects in Machine Learning, showcasin
 -------------
 
 ### Time Series Analysis (TS)
-* [Analyze a time series selected from Open Power System Data (Great Britain)](https://github.com/termik88/projects_ml/tree/main/time_series)
+* [Analyze a time series selected from Open Power System Data](https://github.com/termik88/projects_ml/tree/main/time_series)
 
 ### Computer Vision (CV)
 * [Image Classification using CNN on PyTorch. Training WGAN.](https://github.com/termik88/projects_ml/tree/main/computer_vision)
