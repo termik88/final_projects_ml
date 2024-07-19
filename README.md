@@ -16,4 +16,4 @@ This repository contains a collection of projects in Machine Learning, showcasin
 * [Data Analysis and Target Class Prediction. Text Classification using Recurrent Neural Networks.](https://github.com/termik88/projects_ml/tree/main/natural_language_processing)
 
 ### Regression Analysis (RA)
-* [Predicting Taxi Trip Duration in New York City](https://github.com/termik88/projects_ml/tree/main/regression_analysis)
+* [Predicting Taxi Trip Duration](https://github.com/termik88/projects_ml/tree/main/regression_analysis)
