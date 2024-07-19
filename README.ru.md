@@ -16,4 +16,4 @@
 * [Анализ данных и предсказание целевого класса. Классификация текста с помощью рекуррентных нейронных сетей.](https://github.com/termik88/projects_ml/tree/main/natural_language_processing)
 
 ### Регрессионный Анализ (RA)
-* [Предсказание Продолжительности Поездки на Такси в Нью-Йорке](https://github.com/termik88/projects_ml/tree/main/regression_analysis)
+* [Предсказание Продолжительности Поездки на Такси](https://github.com/termik88/projects_ml/tree/main/regression_analysis)
